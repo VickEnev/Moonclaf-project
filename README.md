@@ -1,0 +1,1 @@
+Back-end updates- Data Base with photos table. Some changes in HomeController and in models 
